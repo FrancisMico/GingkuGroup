@@ -1,3 +1,5 @@
 # GingkuGroup
-JBLEGASPI
-tag pila 1kilo uno na lansang?
+Albay,Calmita,Legaspi,Divino
+Francis Mico Albay
+JB Legaspi
+Ronel Calmita
