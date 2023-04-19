@@ -1,2 +1,3 @@
 # GingkuGroup
-Albay,Calmita,Legaspi,Divino
+JBLEGASPI
+tag pila 1kilo uno na lansang?
