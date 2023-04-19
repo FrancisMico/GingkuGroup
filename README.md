@@ -1,2 +1,2 @@
 # GingkuGroup
-Albay,Calmita,Legaspi,Divino
+JBLEGASPI
